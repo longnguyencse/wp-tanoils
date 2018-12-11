@@ -1,0 +1,5 @@
+<wpml-config>
+	<taxonomies>
+		<taxonomy translate="1">product_color</taxonomy>
+	</taxonomies>
+</wpml-config>

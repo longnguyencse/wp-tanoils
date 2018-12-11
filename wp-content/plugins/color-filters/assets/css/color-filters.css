@@ -1,0 +1,52 @@
+
+/* Color */
+.rcorners {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(0,0,0,0.1);
+	border-radius: 12px;
+    float: left;
+}
+
+.color-filters-wrap {
+	width: 100%;
+	display: inline-block;
+}
+
+.color-item {
+	width: 100%;
+	margin: 4px 0 4px 0;
+	float: left;
+}
+
+/* Color link */
+.rcorners a {
+	width: 18px;
+	height: 18px;
+	float: left;
+}
+
+.rcorners a:hover {
+	text-decoration: none;
+}
+
+.color-wrap {
+	width: 50px;
+	float: left;
+}
+
+.color_and_text_link a {
+	margin: 3px 0 0 0;
+}
+
+/* Color text link */
+.color-link a {
+	float: left;
+}
+
+.color-link a:hover {
+	text-decoration: none;
+}
