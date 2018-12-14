@@ -22,13 +22,13 @@ if (isset($_SERVER["HTTP_X_FORWARDED_PROTO"]) && $_SERVER["HTTP_X_FORWARDED_PROT
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'tanoils');
+define('DB_NAME', 'tanoils_01');
 
 /** MySQL database username */
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'P@ssw0rd');
+define('DB_PASSWORD', 'longbkit11');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
